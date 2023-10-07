@@ -46,15 +46,22 @@ I have publicly published 3 papers temporarily, mostly on Artificial Intellige
 Projects
 ======
 1. Shine. It is an app like the Instagram added with some Chinese elements which has become a very popular app in my campus. It is finshed in 2022 when I was in my sophomore year. It has gained thousands of users(including the Wechat Public Account).
-![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/c4edb2f1-961a-49a8-a62a-b666fdb6153e)
+
+<p align="center">
+  <img src="Shine1.png" alt="Shine" />
+</p>
 
 Scan the QR code with Wechat to use it.
 
-![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/ba3f9dda-57dc-4a4f-941c-2345832933c6)
+<p align="center">
+  <img src="Shine2.png" alt="Shine" />
+</p>
 
 2.Using helium balloons to improve the quality of satellite communication, obtaining the first prize in the College Electronic Design Competition.
 
-![image](https://github.com/LemonZhong/LemonZhong.github.io/assets/89432570/925a97a6-b423-43bb-bc31-9ddfd4b6cd70)
+<p align="center">
+  <img src="ce.png" alt="Shine" />
+</p>
 
 Research Funding
 ======
