@@ -19,17 +19,20 @@ Education
 Expertise
 ======
 1.AI for all. Using Artificial Intelligence to solve the problems in the world, including computer vision and vision-language models.
+
 2.Internet of things. Combining softwares and hardwares to make our physical world a better place. Also interested in communication engineering and signals processing.
  
 
 Lab Experience
 ======
 1.Lab Member, CPNT Lab, Sun Yat-sen University，2022~now. Supervised by Prof. [Xiangwei Zhu](https://www.researchgate.net/profile/Xiangwei-Zhu). 
+
 2.AI Research Internship, Institute for AI Industry Research(AIR), Tsinghua University，2023. Supervised by Prof. [Yan Wang](https://air.tsinghua.edu.cn/en/info/1046/1379.htm). 
 
 Paper & Work
 ======
 I have publicly published 3 papers temporarily, mostly on Artificial Intelligence. Representative work:
+
 1.CASIT: Collective Intelligent Agent System for Internet of Things. Ningze Zhong, Yi Wang, Rui Xiong, Yingyue Zheng, Yang Li, Mingjun Ouyang and Xiangwei Zhu.I have submitted to IEEE Ineternet of Things Journal(IF=10.6), waiting for acceptance.  
 
 Projects
