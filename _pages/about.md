@@ -27,10 +27,13 @@ Lab Experience
 ======
 1.Lab Member, CPNT Lab, Sun Yat-sen University，2022~now. Supervised by Prof. [Xiangwei Zhu](https://www.researchgate.net/profile/Xiangwei-Zhu). 
 <p align="center">
-  <img src="CPNT.png" alt="CPNT图片" width="200" height="200" />
+  <img src="CPNT.png" alt="CPNT图片" width="100" height="100" />
 </p>
 
 2.AI Research Internship, Institute for AI Industry Research(AIR), Tsinghua University，2023. Supervised by Prof. [Yan Wang](https://air.tsinghua.edu.cn/en/info/1046/1379.htm). 
+<p align="center">
+  <img src="AIR.png" alt="CPNT图片" width="100" height="100" />
+</p>
 
 Paper & Work
 ======
