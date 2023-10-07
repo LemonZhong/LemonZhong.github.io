@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Mr. Ningze Zhong
-​ Born in 2003, his interest includes Artificial Intelligence, Machine Learning, Software Development and so on. He is an IEEE student member and also the reviewer of an SCI Q1 journal. can email him at LemonZhong001@163.com. He is also crazy for using technologies in business and everyday life to make the world a better place.
+​ Born in 2003, his interest includes Artificial Intelligence, Machine Learning, Software Development and so on. He is an IEEE student member and also the reviewer of IEEE IOTJ. You can email him at LemonZhong001@163.com. He is also crazy for using technologies in business and everyday life to make the world a better place.
 
 Education
 ======
@@ -34,6 +34,8 @@ Lab Experience
 <p align="center">
   <img src="AIR.png" alt="CPNT图片" width="300" height="100" />
 </p>
+
+
 
 Paper & Work
 ======
