@@ -32,7 +32,7 @@ Lab Experience
 
 2.AI Research Internship, Institute for AI Industry Research(AIR), Tsinghua University，2023. Supervised by Prof. [Yan Wang](https://air.tsinghua.edu.cn/en/info/1046/1379.htm). 
 <p align="center">
-  <img src="AIR.png" alt="CPNT图片" width="300" height="100" />
+  <img src="AIR.png" alt="AIR图片" width="300" height="100" />
 </p>
 
 
@@ -60,7 +60,7 @@ Scan the QR code with Wechat to use it.
 2.Using helium balloons to improve the quality of satellite communication, obtaining the first prize in the College Electronic Design Competition.
 
 <p align="center">
-  <img src="ce.png" alt="Shine" />
+  <img src="ce.png" alt="CE" />
 </p>
 
 Research Funding
