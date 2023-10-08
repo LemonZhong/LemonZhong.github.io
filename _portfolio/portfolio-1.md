@@ -1,6 +1,6 @@
 ---
 title: "Project: Shine"
-excerpt: "A Chinese version of Instagram<br/><img src='/_pages/Shine.png'>"
+excerpt: "A Chinese version of Instagram<br/><img src='/images/Shine.png'>"
 collection: portfolio
 ---
 
