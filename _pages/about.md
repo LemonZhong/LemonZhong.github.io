@@ -51,19 +51,19 @@ Projects
 1. Shine. It is an app like the Instagram added with some Chinese elements which has become a very popular app in my campus. It is finshed in 2022 when I was in my sophomore year. It has gained thousands of users(including the Wechat Public Account).
 
 <p align="center">
-  <img src="Shine1.png" alt="Shine" />
+  <img src="/images/Shine1.png" alt="Shine" />
 </p>
 
 Scan the QR code with Wechat to use it.
 
 <p align="center">
-  <img src="Shine2.png" alt="Shine" />
+  <img src="/images/Shine2.png" alt="Shine" />
 </p>
 
 2.Using helium balloons to improve the quality of satellite communication, obtaining the first prize in the College Electronic Design Competition.
 
 <p align="center">
-  <img src="ce.png" alt="CE" />
+  <img src="/images/ce.png" alt="CE" />
 </p>
 
 Research Funding
