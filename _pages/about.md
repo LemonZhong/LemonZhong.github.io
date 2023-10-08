@@ -34,7 +34,7 @@ Lab Experience
 
 2.AI Research Internship, Institute for AI Industry Research(AIR), Tsinghua University，2023. Supervised by Prof. [Yan Wang](https://air.tsinghua.edu.cn/en/info/1046/1379.htm). 
 <div align="center">
-  <img src="AIR.png" alt="AIR图片" width="300" height="100" />
+  <img src="/images/AIR.png" alt="AIR图片" width="300" height="100" />
 </div>
 
 
