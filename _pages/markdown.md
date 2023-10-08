@@ -10,6 +10,6 @@ redirect_from:
 ## Future Career
 
 * Looking for M.S. or Ph.D degree in 2025 (will apply in 2024)
-* Looking for opportunities to use technologies to make a difference
+* Looking for opportunities to use technologies to strat up and make a difference
 
 
