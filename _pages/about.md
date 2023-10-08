@@ -37,9 +37,9 @@ Lab Experience
   <img src="/images/AIR.png" alt="AIR图片" width="300" height="100" />
 </div>
 
-3.AI Research Internship in vision for medical images, Lee Kong Chian School of Medicine(AIR), Nanyang Technological University，2023. Supervised by Prof. [Siyong Yeo](https://scholar.google.com/citations?user=TYlchMkAAAAJ&hl=en). 
+3.AI Research Internship in vision for medical images, Lee Kong Chian School of Medicine(LKC Medicine), Nanyang Technological University，2023. Supervised by Prof. [Siyong Yeo](https://scholar.google.com/citations?user=TYlchMkAAAAJ&hl=en). 
 <div align="center">
-  <img src="/images/NTU.png" alt="AIR图片" width="225" height="150" />
+  <img src="/images/NTU.png" alt="NTU图片" width="225" height="150" />
 </div>
 
 
