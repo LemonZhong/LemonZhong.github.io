@@ -83,5 +83,11 @@ Research Funding
 
 Language
 ======
-English(fluent),Cantonese(Native Speaker),Hakka(fluent),Mandarin(Native Speaker)
+English(fluent)
+
+Cantonese(Native Speaker)
+
+Hakka(fluent)
+
+Mandarin(Native Speaker)
 
