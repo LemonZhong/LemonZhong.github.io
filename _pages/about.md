@@ -81,3 +81,7 @@ Research Funding
 
   3.￥1,400, Funded by Chinese Academy of Science. Using Neural Radince Field(NeRF, an AI Algorithm) to reconstruct a comet.
 
+Language
+======
+English(fluent),Cantonese(Native Speaker),Hakka(fluent),Mandarin(Native Speaker)
+
