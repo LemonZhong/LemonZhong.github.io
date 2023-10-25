@@ -49,6 +49,10 @@ I have publicly published 3 papers temporarily, mostly on Artificial Intellige
 
 1.CASIT: Collective Intelligent Agent System for Internet of Things. Ningze Zhong, Yi Wang, Rui Xiong, Yingyue Zheng, Yang Li, Mingjun Ouyang and Xiangwei Zhu.I have submitted to IEEE Ineternet of Things Journal(IF=10.6), waiting for acceptance.  
 
+Reviewer
+======
+1.IEEE Internet of Things Journal (IF=10.6)
+
 Projects
 ======
 1. Shine. It is an app like the Instagram added with some Chinese elements which has become a very popular app in my campus. It is finshed in 2022 when I was in my sophomore year. It has gained thousands of users(including the Wechat Public Account).
