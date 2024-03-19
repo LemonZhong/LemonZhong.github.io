@@ -44,12 +44,6 @@ Projects
   <img src="/images/Shine1.png" alt="Shine" />
 </p>
 
-Scan the QR code with Wechat to use it.
-
-<p align="center">
-  <img src="/images/Shine2.png" alt="Shine" width="200" height="200" />
-</p>
-
 2.Using helium balloons to improve the quality of satellite communication, obtaining the first prize in the College Electronic Design Competition.
 
 <p align="center">
