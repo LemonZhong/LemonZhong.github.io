@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Mr. Ningze Zhong
-​ Born in 2003, his interest includes Artificial Intelligence, Machine Learning, Software Development and so on. He is an IEEE student member and also the reviewer of IEEE IOTJ. You can email him at LemonZhong001@163.com. He is also crazy for using technologies in business and everyday life to make the world a better place.
+​ Born in 2003. You can email him at LemonZhong001@163.com. 
 
 Education
 ======
@@ -23,31 +23,14 @@ Expertise
 2.**Internet of things**. Combining softwares and hardwares to make our physical world a better place. Also interested in communication engineering and signals processing.
  
 
-Lab Experience
+
+Paper & Work 
 ======
-1.Lab Member, CPNT Lab, Sun Yat-sen University，2022~now. Supervised by Prof. [Xiangwei Zhu](https://www.researchgate.net/profile/Xiangwei-Zhu). 
+Totally 6 Papers Permanently
+(3 papers under review, including ECCV, CVPR Workshop)
 
-<p align="center">
-  <img src="/images/CPNT.png" alt="CPNT图片" width="100" height="100" />
-</p>
+1.CASIT: Collective Intelligent Agent System for Internet of Things. Ningze Zhong, Yi Wang, Rui Xiong, Yingyue Zheng, Yang Li, Dan Shen, Mingjun Ouyang and Xiangwei Zhu.IEEE Ineternet of Things Journal(IF=10.6)  
 
-
-2.AI Research Internship, Institute for AI Industry Research(AIR), Tsinghua University. Supervised by Prof. [Yan Wang](https://air.tsinghua.edu.cn/en/info/1046/1379.htm). 
-<div align="center">
-  <img src="/images/AIR.png" alt="AIR图片" width="300" height="100" />
-</div>
-
-3.AI Research Internship in vision for medical images, Lee Kong Chian School of Medicine(LKC Medicine), Nanyang Technological University. Supervised by Prof. [Siyong Yeo](https://scholar.google.com/citations?user=TYlchMkAAAAJ&hl=en). 
-<div align="center">
-  <img src="/images/NTU.png" alt="NTU图片" width="225" height="150" />
-</div>
-
-
-Paper & Work
-======
-I have publicly published 3 papers temporarily, mostly on Artificial Intelligence. Representative work:
-
-1.CASIT: Collective Intelligent Agent System for Internet of Things. Ningze Zhong, Yi Wang, Rui Xiong, Yingyue Zheng, Yang Li, Mingjun Ouyang and Xiangwei Zhu.I have submitted to IEEE Ineternet of Things Journal(IF=10.6), waiting for acceptance.  
 
 Reviewer
 ======
@@ -73,21 +56,4 @@ Scan the QR code with Wechat to use it.
   <img src="/images/ce.png" alt="CE" />
 </p>
 
-Research Funding
-======
-  1.￥24,000,  Funded by undergraduate innovation and entrepreneurship training program, National Level. Using Artificial Intelligence to alleviate the bottlenecks of information transmission.
-
-  2.￥6,000,  Funded by undergraduate innovation and entrepreneurship training program, School Level. Using Neural Radince Field (NeRF, an AI Algorithm) to reconstruct school campus.
-
-  3.￥1,400, Funded by Chinese Academy of Science. Using Neural Radince Field(NeRF, an AI Algorithm) to reconstruct a comet.
-
-Language
-======
-English(fluent)
-
-Cantonese(Native Speaker)
-
-Hakka(fluent)
-
-Mandarin(Native Speaker)
 
