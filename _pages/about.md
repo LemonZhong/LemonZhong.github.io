@@ -18,23 +18,23 @@ Education
 
 Expertise
 ======
-1.**AI for all**. Using Artificial Intelligence to solve the problems in the world, including computer vision and vision-language models.
+1.**3D Computer Vision**. Using Artificial Intelligence to solve the problems in the world, including computer vision and vision-language models.
 
-2.**Internet of things**. Combining softwares and hardwares to make our physical world a better place. Also interested in communication engineering and signals processing.
+2.**AI+EE/Robotics**. Combining softwares and hardwares to make our physical world a better place. 
  
 
 
 Paper & Work 
 ======
-Totally 6 Papers Permanently
-(3 papers under review, including ECCV, CVPR Workshop)
 
-1.CASIT: Collective Intelligent Agent System for Internet of Things. Ningze Zhong, Yi Wang, Rui Xiong, Yingyue Zheng, Yang Li, Dan Shen, Mingjun Ouyang and Xiangwei Zhu.IEEE Ineternet of Things Journal(IF=10.6)  
+[Google Scholar]([https://scholar.google.com/citations?user=xLOwakgAAAAJ&hl=zh-CN&oi=ao))
 
 
 Reviewer
 ======
-1.IEEE Internet of Things Journal (IF=10.6)
+1.IEEE Internet of Things Journal (JCR Q1)
+2.IET Image Processing (JCR Q3)
+3.IEEE Transactions on Computational Social Systems(JCR Q2)
 
 Projects
 ======
